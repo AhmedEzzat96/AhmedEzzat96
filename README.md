@@ -66,9 +66,9 @@ A simple task management app demonstrating MVVM architecture in Swift.
 ## 📫 Contact
 
 - GitHub: https://github.com/AhmedEzzat96
-- LinkedIn: Add your LinkedIn here
-- Fiverr: Add your Fiverr profile here
-- Email: Add your professional email here
+- LinkedIn: https://www.linkedin.com/in/ahmed-ezzat-b88b6917a/
+- Fiverr: https://www.fiverr.com/s/qDWV29V
+- Email: ahmed.ezzat17996@gmail.com
 
 ---
 
